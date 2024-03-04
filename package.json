@@ -1,14 +1,14 @@
 {
   "name": "geodatavisualizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GeoDataVisualizer API provides a streamlined way to convert KML files into JSON formatted geographical data. Built with Node.js, this library simplifies the process of uploading KML files, parsing the geographical information they contain, such as placemarks, coordinates, and polygons, and returning this information in a JSON structure that's ready for web applications to use for visualization purposes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ezio-wq/GeoDataVisualizer.git"
+    "type": "https",
+    "url": "https://github.com/ezio-wq/GeoDataVisualizer.git"
   },
   "keywords": [
     "geo",
