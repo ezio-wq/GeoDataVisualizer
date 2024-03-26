@@ -1,6 +1,6 @@
 {
   "name": "geodatavisualizer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "GeoDataVisualizer API provides a streamlined way to convert KML files into JSON formatted geographical data. Built with Node.js, this library simplifies the process of uploading KML files, parsing the geographical information they contain, such as placemarks, coordinates, and polygons, and returning this information in a JSON structure that's ready for web applications to use for visualization purposes.",
   "main": "index.js",
   "scripts": {
